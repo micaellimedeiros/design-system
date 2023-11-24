@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/micaellimedeiros.png',
     alt: 'Micaelli Medeiros',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
