@@ -1,0 +1,2 @@
+import{A as t}from"./index.d914f760.js";import"./index.23ae64da.js";import"./iframe.7d5d1f29.js";import"./index.2805f4b6.js";import"./jsx-runtime.94ccc046.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/micaellimedeiros.png",alt:"Micaelli Medeiros"},argTypes:{src:{control:{type:"text"}}}},c={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,l as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.b4de481f.js.map
